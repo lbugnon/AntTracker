@@ -6,7 +6,7 @@ AntTracker is a software to analyze the foraging behavior of leaf-cutter ants fr
 
 We also provide a video labeling utility, the AntLabeler, which was used to validate the results obtained by AntTracker on test videos. This tool can be used along with the AntTracker to provide an assisted, semi-supervised way to label crowded videos in a fraction of the time.
 
-This software was developed by Francisco Sturniolo ([original repository](https://github.com/fd-sturniolo/AntTracker/tags)). This repository contains the  source code used in the work "AntTracker: A low-cost and efficient computer vision approach to research leaf-cutter ants behavior", J. Sabattini , F. Sturniolo, M. Bollazzi andd L. Bugnon (under review)
+This software was developed by Francisco Sturniolo ([original repository](https://github.com/fd-sturniolo/AntTracker)). This repository contains the  source code used in the work "AntTracker: A low-cost and efficient computer vision approach to research leaf-cutter ants behavior", J. Sabattini , F. Sturniolo, M. Bollazzi andd L. Bugnon (under review)
 
 ## Installation
 
