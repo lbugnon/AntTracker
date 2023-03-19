@@ -10,7 +10,7 @@ This software was developed by Francisco Sturniolo ([original repository](https:
 
 ## Installation
 
-The basic requirements are
+This is a Windows only package at this moment. The basic requirements are
 
 - `git`
 - `conda` (Miniconda or Anaconda)
