@@ -16,8 +16,6 @@ The basic requirements are
 - `conda` (Miniconda or Anaconda)
 - [`MakeNSIS`](https://nsis.sourceforge.io/Download) 
 
-Download the lattest version in [Releases](https://github.com/lbugnon/AntTracker/releases).
-
 To configure the environment, run the script `create-env.ps1`.
 
 The project is composed by a module `ant_tracker` with three submodules:
